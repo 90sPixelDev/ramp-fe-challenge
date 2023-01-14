@@ -1,0 +1,4 @@
+node_modules
+.envs
+email.txt
+.env
